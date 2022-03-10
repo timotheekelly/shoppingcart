@@ -25,7 +25,7 @@ public class ShoppingCart implements IShoppingCart {
     }
 
     /**
-     * Prints the line on the receipt given the item and the price
+     * Prints the line on the receipt given the item and the price, and the format specified
      * @param item Name of the item
      * @param priceFloat the price of the items based on how many there are
      */
